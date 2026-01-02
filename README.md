@@ -1,0 +1,1 @@
+![3D models used for TurtleTalk evaluation](./SHAPES.png)
